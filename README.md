@@ -13,7 +13,7 @@ Put the images to be processed into the "in" folder, double-click the script to 
 During the run, you will be prompted to enter the pixel grain size. For small images, it is recommended to enter 8, for medium images 16, and for large images 32.
 The processed images will be output to the "out" folder.
 
-首先安装pillow
+首先安装pillow,pip install Pillow.
 下载脚本：pixel_fix.py.
 然后在同级目录创建两个文件夹：in和out.
 把待处理的图片放进in文件夹，双击脚本运行即可.
